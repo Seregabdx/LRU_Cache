@@ -1,7 +1,7 @@
 # LRU_Cache
 <h1>Simple LRU Cache</h1>
 
-<h2>A simple LRU cache library written with IIFE</h2>
+A simple LRU cache library written with IIFE
 <br>
 <h2>Functional</h2>
 First, you need to create an object of the Cache class
